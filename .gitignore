@@ -39,6 +39,10 @@ tmp/
 .paperclip-local/
 /.idea/
 /.agents/
+ops/self-hosted/.paperclip-home/
+ops/self-hosted/.codex-home/
+ops/self-hosted/runtime/
+ops/self-hosted/.env
 
 # Doc maintenance cursor
 .doc-review-cursor
